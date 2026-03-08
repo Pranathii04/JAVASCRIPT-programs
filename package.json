@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s05fc3i",
+  "description": "https://scrimba.com/advanced-javascript-c03kpi3kss/~0yfq",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
